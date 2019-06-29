@@ -1,2 +1,31 @@
-# onDeck
-Creating a D&amp;D instance manager much like KFC. Would like to have the end goal be a live turn order viewer split: 1 for DM's, 1 for Players.
+<h1 align="center">Welcome to onDeck 👋</h1>
+<p>
+  <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
+</p>
+
+> D&amp;D Instance Manager
+
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
+## Author
+
+👤 **Jonathan Datz**
+
+* Github: [@jonDatz](https://github.com/jonDatz)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
