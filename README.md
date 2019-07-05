@@ -1,7 +1,10 @@
 <h1 align="center">Welcome to onDeck 👋</h1>
+
 <p>
+  <img src="https://travis-ci.org/jonDatz/onDeck.svg?branch=master" />
   <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
+
 
 > D&amp;D Instance Manager
 
